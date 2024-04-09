@@ -1,7 +1,7 @@
 # Club Member Data Cleaning SQL Script
 
 ## Introduction
-This SQL script is designed to clean the data of club members. The dataset may contain inconsistencies, errors, and missing information, which this script aims to address through various operations.
+This SQL script is designed to clean the data of club members. The dataset contains inconsistencies, errors, and missing information, which this script aims to address through various operations.
 
 ## Operations
 The script performs the following operations:
