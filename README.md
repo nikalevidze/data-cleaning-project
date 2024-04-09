@@ -46,4 +46,4 @@ All the cleaning operations are combined to create a new table named 'club_membe
 Duplicate entries are checked based on email addresses, and any duplicates found are deleted from the cleaned table.
 
 ## Usage
-- Download the club_member_info.csv file and run the script against it in your SQL environment.
+- Download the club_member_info.csv file and run the script data_cleaning.sql against it in your SQL environment.
